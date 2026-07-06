@@ -1,0 +1,7 @@
+-- This module is the root of the PVsNPCanonicalLaneLean Lean proof package.
+import PVsNPCanonicalLaneLean.Basic
+import PVsNPCanonicalLaneLean.SourcePackage
+import PVsNPCanonicalLaneLean.SourceDependencies
+import PVsNPCanonicalLaneLean.Formalization
+import PVsNPCanonicalLaneLean.ReviewerBridge
+import PVsNPCanonicalLaneLean.TheoremStatement
