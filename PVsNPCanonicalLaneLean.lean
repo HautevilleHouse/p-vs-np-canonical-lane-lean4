@@ -5,3 +5,4 @@ import PVsNPCanonicalLaneLean.SourceDependencies
 import PVsNPCanonicalLaneLean.Formalization
 import PVsNPCanonicalLaneLean.ReviewerBridge
 import PVsNPCanonicalLaneLean.TheoremStatement
+import PVsNPCanonicalLaneLean.MathlibStatement
