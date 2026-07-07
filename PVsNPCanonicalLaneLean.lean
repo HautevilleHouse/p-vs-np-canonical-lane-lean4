@@ -5,4 +5,10 @@ import PVsNPCanonicalLaneLean.SourceDependencies
 import PVsNPCanonicalLaneLean.Formalization
 import PVsNPCanonicalLaneLean.ReviewerBridge
 import PVsNPCanonicalLaneLean.TheoremStatement
+import PVsNPCanonicalLaneLean.MathlibObjects
+import PVsNPCanonicalLaneLean.AdmissibleClass
+import PVsNPCanonicalLaneLean.Projection
+import PVsNPCanonicalLaneLean.BridgeLemmas
+import PVsNPCanonicalLaneLean.GateLemmas
+import PVsNPCanonicalLaneLean.FinalTheorem
 import PVsNPCanonicalLaneLean.MathlibStatement
